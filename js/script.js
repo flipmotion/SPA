@@ -232,7 +232,7 @@
 			$window.resize(function(){
 				navScrollListener( $(this),true );
 			});
-			$window.scroll( function () {
+			$window.scroll( function (e) {
 				var $this = $(this);
 				navScrollListener($this,false);
 			});

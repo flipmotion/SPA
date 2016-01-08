@@ -17573,7 +17573,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
 }
 .hentry {
   margin-bottom: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 25px;
   border-bottom: 1px solid #e5e5e5;
   background: #ffffff;
 }
@@ -17586,7 +17586,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   .posts-layout-default .entry-info {
     background: none repeat scroll 0 0 #fff;
     margin-left: 5em;
-    margin-top: -6em;
+    margin-top: -5.5em;
     padding: 15px 30px;
     position: relative;
   }
@@ -17603,7 +17603,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   color: #fff;
   left: 0;
   text-align: center;
-  margin-top: -1em;
+  margin-top: 0em;
   font-weight: 400;
   padding: 8px 5px;
   max-width: 5em;
