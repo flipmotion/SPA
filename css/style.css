@@ -20262,3 +20262,33 @@ img.grayscale:hover {
 .price_slider, .price_label {
   display: none;
 }
+.reset-top {
+  margin-top: 0;
+}
+.reset-width {
+  width: auto;
+}
+
+
+
+
+.checkout-form {
+  background: #F9F9F9;
+  padding: 0 20px;
+}
+.checkout-form hr {
+  margin: 10px 0;
+}
+.checkout-form .last {
+  border: none;
+
+}
+.checkout-form .checkout-btn {
+  margin-bottom: 20px;
+}
+.checkout-form p{
+  margin-bottom: 0;
+}
+.form-group textarea.form-control.check-out {
+  min-height: auto; 
+}
